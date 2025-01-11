@@ -23,7 +23,7 @@ functions**
 
 **│ ├── taxi+\_zone_lookup.csv \# Lookup table for location zones**
 
-**├── outputs/ \# Generated visualizations and analysis results**
+**├── outputs.zip/ \# Generated visualizations and analysis results**
 
 **│ ├── yellow_taxi_hourly_counts.png \# Hourly pickup/drop-off graph
 (Yellow Taxi)**
